@@ -1,0 +1,97 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spaghetti Carbonara",
+    "recipe_image": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "Classic Italian pasta dish with bacon, eggs, and cheese.",
+    "ingredients": [
+      "400g spaghetti",
+      "200g pancetta or guanciale",
+      "3 large eggs",
+      "100g grated Pecorino Romano cheese",
+      "Salt and black pepper to taste"
+    ],
+    "preparing_time": "20 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Chicken Stir-Fry",
+    "recipe_image": "https://images.unsplash.com/photo-1552914343-05ccdaf123d6?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "Quick and easy chicken stir-fry with vegetables.",
+    "ingredients": [
+      "500g chicken breast, sliced",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "200g broccoli florets",
+      "3 cloves garlic, minced",
+      "120ml soy sauce"
+    ],
+    "preparing_time": "25 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Vegetable Curry",
+    "recipe_image": "https://plus.unsplash.com/premium_photo-1661677425561-ac8dda0082b2?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "A flavorful vegetarian curry with mixed vegetables.",
+    "ingredients": [
+      "300g cauliflower florets",
+      "200g carrots, sliced",
+      "1 onion, chopped",
+      "2 tomatoes, diced",
+      "200ml coconut milk",
+      "2 tbsp curry powder"
+    ],
+    "preparing_time": "30 min",
+    "calories": "280 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Caprese Salad",
+    "recipe_image": "https://images.unsplash.com/photo-1604908177453-7462950a6a3b?q=80&w=2857&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "Simple and refreshing Italian salad with tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "3 large tomatoes, sliced",
+      "200g fresh mozzarella cheese, sliced",
+      "1 bunch fresh basil leaves",
+      "2 tbsp balsamic vinegar",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "15 min",
+    "calories": "220 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Grilled Salmon",
+    "recipe_image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "Healthy grilled salmon seasoned with herbs and lemon.",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 tbsp olive oil",
+      "2 cloves garlic, minced",
+      "1 lemon, sliced",
+      "1 tsp dried dill",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": "20 min",
+    "calories": "300 calories"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Chocolate Brownies",
+    "recipe_image": "https://images.unsplash.com/photo-1589886119971-ce58594dba81?q=80&w=2893&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "short_description": "Decadent chocolate brownies that are moist and fudgy.",
+    "ingredients": [
+      "200g dark chocolate",
+      "150g unsalted butter",
+      "200g granulated sugar",
+      "3 large eggs",
+      "100g all-purpose flour",
+      "1 tsp vanilla extract"
+    ],
+    "preparing_time": "40 min",
+    "calories": "380 calories"
+  }
+]
